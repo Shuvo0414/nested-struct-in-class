@@ -1,2 +1,2 @@
-Brand: Toyota
-Year: 2025
+myNum: 833
+myLetter: A
