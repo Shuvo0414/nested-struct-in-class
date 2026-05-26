@@ -1,2 +1,2 @@
-myNum: 833
-myLetter: A
+Today: 25.5 C
+Today: 18.6 C
